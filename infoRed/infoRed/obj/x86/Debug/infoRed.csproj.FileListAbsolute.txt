@@ -1,0 +1,6 @@
+/home/meyi/Projects/infoRed/infoRed/infoRed/bin/Debug/infoRed.exe
+/home/meyi/Projects/infoRed/infoRed/infoRed/bin/Debug/infoRed.pdb
+/home/meyi/Projects/infoRed/infoRed/infoRed/obj/x86/Debug/infoRed.csprojAssemblyReference.cache
+/home/meyi/Projects/infoRed/infoRed/infoRed/obj/x86/Debug/infoRed.csproj.CoreCompileInputs.cache
+/home/meyi/Projects/infoRed/infoRed/infoRed/obj/x86/Debug/infoRed.exe
+/home/meyi/Projects/infoRed/infoRed/infoRed/obj/x86/Debug/infoRed.pdb
